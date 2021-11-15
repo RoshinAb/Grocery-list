@@ -1,0 +1,98 @@
+[
+	{
+		"sno": "1",
+		"name": "garlic",
+		"quantity": "100",
+		"unit": "g",
+		"department": "Vegetables",
+		"notes": "Peeled"
+	},
+	{
+		"sno": "2",
+		"name": "Pumpkin",
+		"quantity": "500",
+		"unit": "g",
+		"department": "Vegetables",
+		"notes": "Cut"
+	},
+	{
+		"sno": "3",
+		"name": "Brocoli",
+		"quantity": "200",
+		"unit": "g",
+		"department": "Vegetables",
+		"notes": "florets"
+	},
+	{
+		"sno": "4",
+		"name": "Tea",
+		"quantity": "1",
+		"unit": "kg",
+		"department": "Tea",
+		"notes": "Red Label"
+	},
+	{
+		"sno": "5",
+		"name": "Tiger Krunchi Biscuits",
+		"quantity": "400",
+		"unit": "g",
+		"department": "Biscuits",
+		"notes": "Britannia"
+	},
+	{
+		"sno": "6",
+		"name": "Comfort fabric",
+		"quantity": "2",
+		"unit": "L",
+		"department": "Detergent & Fabric",
+		"notes": "Conditioner"
+	},
+	{
+		"sno": "7",
+		"name": "Atta-Whole wheat",
+		"quantity": "10",
+		"unit": "kg",
+		"department": "Atta, Flours & sooji",
+		"notes": "Aashirvaad"
+	},
+	{
+		"sno": "8",
+		"name": "Roasted sooji rava",
+		"quantity": "1",
+		"unit": "kg",
+		"department": "Atta, Flours & sooji",
+		"notes": "BB Royal"
+	},
+	{
+		"sno": "9",
+		"name": "Basmati Rice",
+		"quantity": "1",
+		"unit": "kg",
+		"department": "Rice & Rice Products",
+		"notes": "India Gate"
+	},
+	{
+		"sno": "10",
+		"name": "Moong Dal",
+		"quantity": "2",
+		"unit": "kg",
+		"department": "Dals & Pulses",
+		"notes": "BB Royal"
+	},
+	{
+		"sno": "11",
+		"name": "Iodized Salt",
+		"quantity": "1",
+		"unit": "kg",
+		"department": "Salt",
+		"notes": "Tata salt"
+	},
+	{
+		"sno": "12",
+		"name": "Sunflower Oil",
+		"quantity": "1",
+		"unit": "L",
+		"department": "Edible Oils & Ghee",
+		"notes": "Fortune"
+	}
+]

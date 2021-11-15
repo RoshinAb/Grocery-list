@@ -1,0 +1,24 @@
+* {
+  box-sizing: border-box;
+}
+
+body{
+   /* background-color:thistle; */
+   background-image: url(grocery_2.jpg);
+   background-size: cover;
+}
+#myTable{
+    font-weight: bold;
+
+}
+#search-input{
+    width: 100%;
+}
+.search_button{
+    margin-left: 40%;
+}
+h1{
+    padding-bottom:2px ;
+    font-family: cursive;
+    font-weight: 800;
+}
